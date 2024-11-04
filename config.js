@@ -11,10 +11,10 @@ global.email ="saimsamsun789@gmail.com"
 global.location="Lahore,Pakistan."
 
 
-global.mongodb= process.env.MONGODB_URI || "false" || "mongodb+srv://Mellow911:1234@cluster0.ewxqmjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Mellow911:1234@cluster0.ewxqmjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
-global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://Mellow911:1234@cluster0.ewxqmjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://Mellow911:1234@cluster0.ewxqmjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/suhailmd-2.0";
