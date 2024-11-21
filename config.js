@@ -74,8 +74,18 @@ module.exports = {
   VERSION : process.env.VERSION || "1.0.1-developement-x",
   caption : global.caption || "BatmanMD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
-  author : process.env.PACK_AUTHER|| "𝘼𝙃𝙈₇ 𝙎𝙩𝙞𝙘𝙠𝙚𝙧𝙨",
-  packname: process.env.PACK_NAME || "Made By",
+  author : process.env.PACK_AUTHER|| "𝘼𝙃𝙈₇",
+  packname: process.env.PACK_NAME || `
+𝘼𝙃𝙈₇ 𝙎𝙩𝙞𝙘𝙠𝙚𝙧𝙨
+•
+•
+𝙝𝙚𝙮𝙡𝙞𝙣𝙠.𝙢𝙚/𝘼𝙝𝙢𝙏𝙚𝙘𝙝 
+• 
+𝙒ʜᴛ𝙨ᴀᴘᴘ 𝘾ʜᴀɴɴᴇʟ 𝙇ɪɴᴋ
+(ᵗʸᵖᵉ ᵗʰᵉ ˡⁱⁿᵏ ⁱⁿ ʸᵒᵘʳ ᶜʰᵃᵗ ᵃⁿᵈ ʲᵒⁱⁿ)
+▼▼▼▼▼▼
+𝙩𝙞𝙣𝙮𝙪𝙧𝙡.𝙘𝙤𝙢/2𝙙𝙣52𝙪𝙭𝙗
+`,
   botname : process.env.BOT_NAME  || "BATxSUHAIL-MD",
   ownername:process.env.OWNER_NAME|| "Muhammad Makki",
 
